@@ -72,7 +72,6 @@ nav {
 /* Header */
 
 header {
-  background-image: url("../public/img/Header-bg.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -111,7 +110,6 @@ header {
 /* About */
 
 .about {
-  background-image: url("../public/img/About-bg.jpg");
   background-position: center;
   background-repeat: no-repeat;
   width: 100%;
@@ -143,7 +141,6 @@ header {
 /* Work */
 
 .work {
-  background-image: url("../public/img/Work-bg.jpg");
   background-position: center;
   background-repeat: no-repeat;
   width: 100%;
@@ -162,7 +159,6 @@ header {
 /* Contact */
 
 .contact {
-  background-image: url("../public/img/Contact-bg.jpg");
   background-position: center;
   background-repeat: no-repeat;
   width: 100%;
@@ -198,6 +194,7 @@ header {
   font-size: 1.563rem;
   border-radius: 10px;
   font-weight: 400;
+  background-color: #f8f8f8;
   font-family: 'Inter', sans-serif;
   padding: 0.625rem 1.875rem;
 }
@@ -205,6 +202,7 @@ header {
 .contact__inputLastName {
   font-size: 1.563rem;
   border-radius: 10px;
+  background-color: #f8f8f8;
   font-family: 'Inter', sans-serif;
   margin-left: 4.688rem;
   font-weight: 400;
@@ -215,6 +213,7 @@ header {
   font-size: 1.563rem;
   font-family: 'Inter', sans-serif;
   border-radius: 10px;
+  background-color: #f8f8f8;
   font-weight: 400;
   padding: 0.625rem 1.875rem;
 }
@@ -224,6 +223,7 @@ header {
   padding: 0.625rem 1.875rem;
   border-radius: 10px;
   width: 50rem;
+  background-color: #f8f8f8;
   font-weight: 400;
   font-family: 'Inter', sans-serif;
   height: 9.375rem;
